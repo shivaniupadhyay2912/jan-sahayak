@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/shivaniupadhyay2912/jan-sahayak/issues"
   },
-  "homepage": "https://github.com/shivaniupadhyay2912/jan-sahayak#readme"
+  "homepage": "https://github.com/shivaniupadhyay2912/jan-sahayak#readme",
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
 }
